@@ -17,7 +17,7 @@ spec:
         component: component-a
     spec:
       containers:
-      - image: docker.io/sbose78/foobar:dev-test-dfdsfs8fjus
+      - image: docker.io/sbose78/foobar:dev-test-df8fjus
         imagePullPolicy: Always
         name: container-image
         resources: {}
